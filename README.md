@@ -17,11 +17,11 @@
 </div>
 
 ### :man_technologist: About Me :
-👉I am Pramod Tejra.<br>
+👉I am Shubham Singh.<br>
 😎Age 20<br>
 👨‍🎓Sophomore at IIIT Bhopal.<br>
-📧pramodtejrapiku01@gmail.com<br>
-👨‍💻Familiar with C||C++ learning python and web-development.<br>
+📧shubhamiiitb@gmail.com<br>
+👨‍💻Familiar with C||C++ learning python ,My Sql and web-development.<br>
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
