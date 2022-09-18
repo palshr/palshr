@@ -16,7 +16,7 @@
 
 ### :man_technologist: About Me :
 👉I am Shubham Singh.<br>
-😎Age 20<br>
+😎Age 19<br>
 👨‍🎓Sophomore at IIIT Bhopal.<br>
 📧shubhamiiitb@gmail.com<br>
 👨‍💻Familiar with C||C++ learning python ,My Sql and web-development.<br>
